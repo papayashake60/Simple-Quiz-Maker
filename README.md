@@ -7,4 +7,9 @@ Create your own exe or see homepage for link for download.
 
 https://stevepython.wordpress.com/2020/07/20/simple-quiz-maker-update
 
+You can also download ademo quiz and use thise files for experimenting or
+as a template etc.
+
+
+
 
