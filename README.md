@@ -1,4 +1,4 @@
-# Simle-Quiz-Maker
+# Simple-Quiz-Maker
 Create your own standalone multiple choice quizzes.
 
 No programmong required.
