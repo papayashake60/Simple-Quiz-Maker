@@ -22,7 +22,7 @@ as a template for you rown quizes etc.
 
 
 
-The creator part, yes it's an ugly mofo at the monent I know:
+The creator part, yes it's an ugly mofo at the moment I know:
 
 ![Alt text](https://stevepython.files.wordpress.com/2020/07/simple-quiz-maker-v060-screenshot.png "Optional title")
 
